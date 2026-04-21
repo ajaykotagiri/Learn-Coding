@@ -23,7 +23,7 @@
 # IMPORTANT: Python uses INDENTATION (spaces/tab) to define blocks.
 #            Everything indented under an if belongs to that if.
 
-# ------ YOUR PLAYGROUND BELOW ------
+# ------ YOUR PLAYGROUND BELOW -----
 
 # 1. Basic if/elif/else
 age = int(input("Enter your age: "))

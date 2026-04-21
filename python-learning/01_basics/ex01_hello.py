@@ -10,7 +10,7 @@
 #   float      - decimal numbers
 #   bool       - True or False
 #
-# ------ YOUR PLAYGROUND BELOW ------
+# ------ YOUR PLAYGROUND BELOW -----
 
 # 1. Print a greeting
 print("Hello, World!")

@@ -13,7 +13,7 @@
 #     .replace(a, b) - replaces all occurrences of a with b
 #     len()          - number of characters in a string
 
-# ------ YOUR PLAYGROUND BELOW ------
+# ------ YOUR PLAYGROUND BELOW -----
 
 # 1. Ask the user for their name
 fname = input("What is your first name? ")
